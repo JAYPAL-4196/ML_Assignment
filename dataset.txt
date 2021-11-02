@@ -1,10 +1,10 @@
-﻿35,5	no	yes	no	no	no	no	no
-35,9	no	no	yes	yes	yes	yes	no
+﻿35,5	no	yes	no	no	yes	no	no
+35,8	no	no	yes	yes	yes	yes	no
 35,9	no	yes	no	no	no	no	no
 36,0	no	no	yes	yes	yes	yes	no
 36,0	no	yes	no	no	no	no	no
 36,0	no	yes	no	no	no	no	no
-36,2	no	no	yes	yes	yes	yes	no
+36,1	no	no	yes	yes	yes	no	no
 36,2	no	yes	no	no	no	no	no
 36,3	no	no	yes	yes	yes	yes	no
 36,6	no	no	yes	yes	yes	yes	no
@@ -37,7 +37,7 @@
 37,3	no	no	yes	no	no	yes	no
 37,4	no	yes	no	no	no	no	no
 37,4	no	no	yes	no	no	yes	no
-37,5	no	no	yes	yes	no	yes	no
+37,4	no	no	yes	no	no	yes	no
 37,5	no	yes	no	no	no	no	no
 37,5	no	yes	no	no	no	no	no
 37,5	no	no	yes	yes	yes	yes	no
@@ -61,8 +61,8 @@
 38,0	no	yes	yes	no	yes	no	yes
 38,0	no	yes	yes	no	yes	no	yes
 38,1	no	yes	yes	no	yes	no	yes
-38,3	no	yes	yes	no	yes	no	yes
-38,5	no	yes	yes	no	yes	no	yes
+38,2	no	yes	yes	no	yes	no	yes
+38,5	no	yes	yes	yes	yes	no	yes
 38,7	no	yes	yes	no	yes	no	yes
 38,9	no	yes	yes	no	yes	no	yes
 39,0	no	yes	yes	no	yes	no	yes
